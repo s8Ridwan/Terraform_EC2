@@ -1,4 +1,5 @@
 Terraform EC2 Deployment
+
 This directory contains the Terraform configuration for launching an EC2 instance on AWS.
 
 Files and Structure
