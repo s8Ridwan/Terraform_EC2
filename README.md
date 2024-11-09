@@ -1,0 +1,1 @@
+In this current directory, I have main.tf file and module-ec2 folder. main.tf file contains terraform code that can be used to launch an EC2 in AWS while the module_ec2 folder all the configuration files (module) that can be used to create an EC2 in AWS.
