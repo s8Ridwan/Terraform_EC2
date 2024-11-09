@@ -1,0 +1,13 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform backup files
+*.backup
+
+
+
+
+# Sensitive files
+.terraform/
+.terraform.lock.hcl
